@@ -1,0 +1,17 @@
+.input1{
+    width: 200px;
+    height: 40px;
+    display: block;
+    margin-top: 20px;
+    box-shadow: 1px 2px 10px;
+    margin-left: 50px;
+}
+p{
+    margin-left: 50px;
+}
+.cont{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    margin: 20px 0 0 500px;
+}
